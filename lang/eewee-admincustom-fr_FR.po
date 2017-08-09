@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eewee-admincustom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-09 15:10+0100\n"
+"PO-Revision-Date: 2013-05-09 15:15+0100\n"
+"Last-Translator: Michael <contact@eewee.fr>\n"
+"Language-Team: Michael <contact@eewee.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_c;_x;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: /Users/michael/Desktop/eewee-admincustom\n"
+
+#: /Users/michael/Desktop/eewee-admincustom/controllers/AdminController.php:257
+msgid "Powered by"
+msgstr "Réalisé par"
+
+#: /Users/michael/Desktop/eewee-admincustom/controllers/AdminController.php:263
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:22
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:69
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:22
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:104
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:22
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:162
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:22
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:178
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleEdit.php:23
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleEdit.php:85
+msgid "Update"
+msgstr "Mise à jour"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:23
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:70
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:23
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:105
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:23
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:163
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:23
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:179
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleAdd.php:22
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleAdd.php:39
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleEdit.php:24
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleEdit.php:86
+#: /Users/michael/Desktop/eewee-admincustom/view/roleDelete.php:19
+msgid "Back"
+msgstr "Retour"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:27
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:27
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:27
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:20
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:34
+msgid "Edit"
+msgstr "Editer"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:32
+msgid "Number admin bar menu"
+msgstr "Nombre de menu"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:40
+msgid "Menu title"
+msgstr "Titre du menu"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:49
+msgid "Submenu Title"
+msgstr "Titre du sous menu"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FAdminbarEdit.php:53
+msgid "Submenu Url"
+msgstr "URL du sous menu"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:27
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleAdd.php:21
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleAdd.php:26
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleAdd.php:38
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:5
+msgid "Add"
+msgstr "Ajouter"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:32
+msgid "Number dashboard"
+msgstr "Nombre de tableau de board"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:40
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:163
+msgid "Title"
+msgstr "Titre"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:44
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:167
+msgid "Description"
+msgstr "Description"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FDashboardEdit.php:58
+msgid "Remove"
+msgstr "Supprimer"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:39
+msgid "State favicon"
+msgstr "Etat du favicon"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:51
+msgid "URL Favicon (.ico)"
+msgstr "URL du Favicon (.ico)"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:54
+msgid "URL Favicon (.png)"
+msgstr "URL du Favicon (.png)"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:70
+msgid "State admin logo"
+msgstr "Etat du logo d'admin"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:82
+msgid "URL admin logo"
+msgstr "URL du logo d'admin"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:85
+msgid "URL admin background"
+msgstr "URL du fond de la page de connexion"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:101
+msgid "State admin footer"
+msgstr "Etat du pied de page de l'admin"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:113
+msgid "Name admin footer poweredby"
+msgstr "Nom (réalisé par)"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:116
+msgid "URL admin footer poweredby"
+msgstr "URL pied de page"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:119
+msgid "URL admin footer email"
+msgstr "Email pied de page"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:122
+msgid "Footer other text"
+msgstr "Autre texte du pied de page"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FGeneralEdit.php:138
+msgid "State admin notification"
+msgstr "Etat des notifications "
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:136
+msgid "Number help tab"
+msgstr "Nombre d'onglet d'aide"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FHelptabEdit.php:144
+msgid "Page"
+msgstr "Page"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleAdd.php:31
+msgid "Name"
+msgstr "Nom"
+
+#: /Users/michael/Desktop/eewee-admincustom/forms/FRoleEdit.php:30
+msgid "Edit capabilities for"
+msgstr "Editer les capacités pour"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/adminbar.php:24
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:22
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:66
+msgid "Admin bar"
+msgstr "Barre d'admin"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/dashboard.php:24
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:20
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:43
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/general.php:31
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:19
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:28
+msgid "General"
+msgstr "Général"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/helptab.php:20
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:21
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:55
+msgid "Help tab"
+msgstr "Onglet d'aide"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:6
+msgid "Manual"
+msgstr "Manuel"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:9
+msgid "Version"
+msgstr "Version"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:31
+msgid "Favicon"
+msgstr "Favicon"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:32
+msgid "Admin login logo"
+msgstr "Logo de la page de connexion"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:33
+msgid "Admin login background"
+msgstr "Fond de la page de login"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:34
+msgid "Admin footer description (powered by, email, description)"
+msgstr "Description du pied de page (réalisé par, email, description)"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:35
+msgid "Admin notification"
+msgstr "Notification d'admin"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:46
+msgid "Admin dashboard widget : add your custom widget"
+msgstr "Widget du tableau de bord : ajouter votre widget sur mesure"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:47
+msgid "Admin dashboard widget : remove existing widget"
+msgstr "Widget du tableau de bord : supprimer un widget existant"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:58
+msgid ""
+"Admin help tab : add help tab & choose help page with title, description."
+msgstr ""
+"Onglet d'aide : ajouter un onglet d'aide & choisissez la page d'aide "
+"associée titre, description."
+
+#: /Users/michael/Desktop/eewee-admincustom/view/manuel.php:69
+msgid "add menu"
+msgstr "ajouter menu"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:5
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:17
+msgid "Role"
+msgstr "Role"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:23
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:39
+msgid "Delete"
+msgstr "Supprimer"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/role.php:39
+msgid "Thank you to confirm the deletion ?"
+msgstr "Merci de confirmer la suppression ?"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/roleAdd.php:14
+#: /Users/michael/Desktop/eewee-admincustom/view/roleDelete.php:16
+msgid "Options recorded."
+msgstr "Options enregistrées."
+
+#: /Users/michael/Desktop/eewee-admincustom/view/roleAdd.php:17
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/roleAdd.php:17
+msgid "Update unrealized. Role already exists."
+msgstr "Mise à jour non réalisée. Rôle existe déjà."
+
+#: /Users/michael/Desktop/eewee-admincustom/view/roleAdd.php:25
+msgid "Add role"
+msgstr "Ajouter un rôle"
+
+#: /Users/michael/Desktop/eewee-admincustom/view/roleEdit.php:28
+msgid "Edit capabilities"
+msgstr "Editer capacités"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+
+#~ msgid "State"
+#~ msgstr "Etat"
+
+#~ msgid "Search"
+#~ msgstr "Recherche"
+
+#~ msgid "Validate the research"
+#~ msgstr "Valider la recherche"
+
+#~ msgid "Price"
+#~ msgstr "Prix"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Plate"
+#~ msgstr "Plat"
+
+#~ msgid "Category"
+#~ msgstr "Categorie"
+
+#~ msgid "Ingredient"
+#~ msgstr "Ingredient"
+
+#~ msgid "1 ingredient line"
+#~ msgstr "1 ingrédient par ligne"
+
+#~ msgid "ex: xxx, yyy, zzz"
+#~ msgstr "ex: xxx, yyy, zzz"
+
+#~ msgid "ex: 10.50"
+#~ msgstr "ex: 10.50"
+
+#~ msgid "Currency"
+#~ msgstr "Devise"
+
+#~ msgid "Id"
+#~ msgstr "Id"
+
+#~ msgid "Dish"
+#~ msgstr "Plat"
+
+#~ msgid "Examples"
+#~ msgstr "Exemples"
+
+#~ msgid "Display the dish"
+#~ msgstr "Afficher le plat"
+
+#~ msgid "Composition of the menu"
+#~ msgstr "Composition du menu"
+
+#~ msgid "Category of flat"
+#~ msgstr "Catégorie de plat"
+
+#~ msgid "Tax"
+#~ msgstr "Taxe"
+
+#~ msgid "Setting"
+#~ msgstr "Configuration"
+
+#~ msgid "Enabled"
+#~ msgstr "Etat"
+
+#~ msgid "Always visible"
+#~ msgstr "Toujours visible"
+
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+#~ msgid "Width"
+#~ msgstr "Largeur"
+
+#~ msgid "URL Image"
+#~ msgstr "URL de l'image"
+
+#~ msgid "Text"
+#~ msgstr "Texte"
+
+#~ msgid "Border width"
+#~ msgstr "Largeur de la bordure"
+
+#~ msgid "Border color"
+#~ msgstr "Couleur de bordure"
+
+#~ msgid "Summary"
+#~ msgstr "Sommaire"
+
+#~ msgid "Settings"
+#~ msgstr "Configuration"
+
+#~ msgid "More information"
+#~ msgstr "Plus d'information"
+
+#~ msgid "Enables / disables the functionality of the plugin"
+#~ msgstr "Activer / désactiver les fonctionnalités du plugin"
+
+#~ msgid "Indicates whether the popup should always be displayed or not."
+#~ msgstr "Indique si la popup doit toujours être affiché ou non."
+
+#~ msgid "URL link, which will be used when click on the image and / or text."
+#~ msgstr ""
+#~ "Lien URL, qui sera utilisé quand on clique sur l'image et / ou le texte."
+
+#~ msgid "Width of popup advertising."
+#~ msgstr "Largeur du popup publicitaire"
+
+#~ msgid "URL of the image you want to add popup advertising."
+#~ msgstr ""
+#~ "URL de l'image que vous voulez ajouter à votre du popup publicitaire."
+
+#~ msgid "Text you want to add popup advertising."
+#~ msgstr "Texte que vous voulez ajouter à votre du popup publicitaire."
+
+#~ msgid "Border width of popup advertising."
+#~ msgstr "Largeur de la bordure du popup publicitaire."
+
+#~ msgid "Border color of popup advertising."
+#~ msgstr "Couleur de la bordure du popup publicitaire."
+
+#~ msgid "API Key"
+#~ msgstr "API Key"
+
+#~ msgid "Expanded"
+#~ msgstr "Expanded"
+
+#~ msgid "Infer"
+#~ msgstr "Infer"
+
+#~ msgid "Twitter API Key"
+#~ msgstr "Twitter API Key"
+
+#~ msgid "API Version"
+#~ msgstr "Version API"
+
+#~ msgid ""
+#~ "By default a Hovercard displays a user's name, Twitter username, and "
+#~ "location. When the user clicks the ''more'' button in a Hovercard, it "
+#~ "will expand to reveal additional information such as the user's bio and "
+#~ "their latest Tweet. To render Hovercards in this expanded state by "
+#~ "default, pass an object literal as an argument when calling the "
+#~ "hovercards method and set the expanded property to true."
+#~ msgstr ""
+#~ "Par défaut, un Hovercard affiche un nom d'utilisateur, nom d'utilisateur "
+#~ "Twitter, et l'emplacement. Lorsque l'utilisateur clique sur le bouton'' "
+#~ "plus'' dans un Hovercard, il sera étendu à révéler des informations "
+#~ "supplémentaires comme la bio de l'utilisateur et son dernier tweet. Pour "
+#~ "rendre Hovercards dans cet état élargi par défaut, passez un objet "
+#~ "littéral comme argument lors de l'appel de la méthode hovercards et "
+#~ "définissez la propriété élargi à true."
+
+#~ msgid ""
+#~ "As mentioned above, the hovercards method will implicitly call the "
+#~ "linkifyUsers method against the body of the document. If Twitter "
+#~ "usernames have already been linkified server-side according to the same "
+#~ "pattern used by the linkifyUsers method, then it is possible to prevent "
+#~ "the hovercards method from linkifying users by passing an object literal "
+#~ "as an argument to when calling hovercards and setting the linkify "
+#~ "property to false."
+#~ msgstr ""
+#~ "Comme mentionné ci-dessus, la méthode hovercards implicitement appeler la "
+#~ "méthode linkifyUsers contre le corps du document. Si les noms "
+#~ "d'utilisateurs de Twitter ont déjà été linkified côté serveur selon le "
+#~ "même schéma utilisé par la méthode linkifyUsers, il est possible de "
+#~ "prévenir la méthode hovercards des utilisateurs linkifying en passant un "
+#~ "littéral d'objet comme argument lors de l'appel à hovercards et "
+#~ "définissant la propriété Linkify à false."
+
+#~ msgid ""
+#~ "Use the infer option to trigger Hovercards on elements whose text "
+#~ "contains a Twitter username. When the infer option is used, the "
+#~ "hovercards method will not call the linkifyUsers method. This is useful "
+#~ "when Twitter usernames have already been linkified by some other means. "
+#~ "For example: < a ...>Follow @biz on Twitter!</a>"
+#~ msgstr ""
+#~ "Utilisez l'option déduire pour déclencher Hovercards sur les éléments "
+#~ "dont le texte contient un nom d'utilisateur Twitter. Lorsque l'option "
+#~ "déduire est utilisé, la méthode hovercards va pas appeler la méthode "
+#~ "linkifyUsers. Ceci est utile lorsque les noms d'utilisateurs de Twitter "
+#~ "ont déjà été linkified par d'autres moyens. Par exemple: <a ...> Follow @ "
+#~ "biz sur Twitter </ a>"
+
+#~ msgid "checked"
+#~ msgstr "Coché"
+
+#~ msgid "unchecked"
+#~ msgstr "décoché"
+
+#~ msgid "Method used"
+#~ msgstr "Méthode utilisée"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Creator"
+#~ msgstr "Créateur"
+
+#~ msgid "xxx"
+#~ msgstr "xxx"
+
+#~ msgid "yyy"
+#~ msgstr "yyy"
+
+#~ msgid "Pinterest widget"
+#~ msgstr "Pinterest widget"
+
+#~ msgid "Header"
+#~ msgstr "Entete"
+
+#~ msgid "Footer"
+#~ msgstr "Pied de page"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Min:60. Leave blank for 92"
+#~ msgstr "Min:60. Laisser vide pour 92"
+
+#~ msgid "Board Height"
+#~ msgstr "Hauteur zone"
+
+#~ msgid "Min:60. Leave blank for 175"
+#~ msgstr "Min:60. Laisser vide pour 175"
+
+#~ msgid "Min:130. Leave blank for auto"
+#~ msgstr "Min:130. Laisser vide pour automatique"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "Pinterest URL"
+
+#~ msgid "Pinterest Shortcode"
+#~ msgstr "Pinterest Shortcode"
+
+#~ msgid "Example pinterest url"
+#~ msgstr "Exemple d'url pinterest"
+
+#~ msgid "Pinterest profil"
+#~ msgstr "Profil Pinterest"
+
+#~ msgid "Pinterest table"
+#~ msgstr "Table Pinterest"
+
+#~ msgid "image width"
+#~ msgstr "Largeur image"
+
+#~ msgid "Bloc width"
+#~ msgstr "Largeur zone"
+
+#~ msgid "Bloc height"
+#~ msgstr "Hauteur zone"
+
+#~ msgid "Buy with PayPal"
+#~ msgstr "Acheter via Paypal"
